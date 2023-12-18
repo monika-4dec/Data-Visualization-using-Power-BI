@@ -1,0 +1,16 @@
+{
+	"name": "Flat Colors Theme",
+	"dataColors": [
+		"#e3a711",
+		"#c56055",
+		"#a26d97",
+		"#6d5f88",
+		"#7d7d7d",
+		"#93b856",
+		"#55a0d3",
+		"#406685"
+	],
+	"background": "#ffffff",
+	"tableAccent": "#ebebeb",
+	"foreground": "#424242"
+}
