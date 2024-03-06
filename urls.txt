@@ -1,0 +1,11 @@
+https://powerbi.microsoft.com/
+https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+https://app.powerbi.com/home?experience=power-bi
+https://learn.microsoft.com/en-us/dax/sum-function-dax
+
+importing data
+https://en.wikipedia.org/wiki/UEFA_European_Football_Championship 
+https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations
+
+real time streaming data
+https://www.pubnub.com/demos/real-time-data-streaming/?show=demo
